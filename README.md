@@ -62,3 +62,10 @@ Your app should now be running on [localhost:5000](http://localhost:5000/).
 -add advanced authentification method
 
 -change structure files 
+
+## That works
+My example  Rest Api:
+    https://serene-sands-56313.herokuapp.com/a_movie
+My basic client application:
+    https://shielded-escarpment-26412.herokuapp.com/admin.html
+
